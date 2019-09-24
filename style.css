@@ -1,0 +1,12 @@
+table{	font-family: Verdana, Geneva, sans-serif;}
+th{	
+	border-style: solid;
+	border-color: grey;
+	padding: 45px;
+}
+td{
+	border-style: solid;
+	border-color: grey;
+	background-color: darkgrey;
+	padding: 45px;
+}
